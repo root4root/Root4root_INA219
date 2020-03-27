@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Root4root_INA219
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Root4root_INA219	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setCalibration	KEYWORD2
+changeConfig	KEYWORD2
+getBusVoltage_mV	KEYWORD2
+getBusVoltage_V	KEYWORD2
+getShuntVoltage_mV	KEYWORD2
+getShuntVoltage_raw	KEYWORD2
+getCurrent_mA	KEYWORD2
+getCurrent_raw	KEYWORD2
+getPower_mW	KEYWORD2
+getPower_raw	KEYWORD2
+powerSave	KEYWORD2
+reset	KEYWORD2
+trigger	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
